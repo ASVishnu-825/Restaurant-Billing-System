@@ -1,0 +1,16 @@
+﻿FOODIE
+S.NO		FOODIES 			QUANTITY			PRICE
+  
+
+
+1	Plain Dosai		3	141
+
+1	Onion Dosai		5	310
+
+1	Rava Dosai		3	168
+
+1	Rava Dosai		2	112
+
+1	Masala Dosai		3	186
+
+1	Chapathi		3	225
